@@ -5,6 +5,8 @@
   <img src="assets/img/telainicial.png" width="200" height="400" />
   <img src="assets/img/exemplo2.png" width="200" height="400" />
   <img src="assets/img/exemplo3.png" width="200" height="400" />
+</p>
+<p align="center">
   <img src="assets/img/exemplo4.png" width="200" height="400" />
   <img src="assets/img/exemplo5.png" width="200" height="400" />
 </p>
